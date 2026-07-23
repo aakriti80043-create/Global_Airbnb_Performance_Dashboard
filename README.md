@@ -26,6 +26,7 @@ An interactive Power BI dashboard analyzing Airbnb's global performance across *
 - **DAX** for calculated measures (e.g., DISTINCTCOUNT-based cumulative %)
 
 ## 📷 Preview
+
 ### 1. Overview
 <img width="576" height="434" alt="Overview page" src="https://github.com/user-attachments/assets/38d06295-e487-43b9-87f4-8871c2886b60" />
 
