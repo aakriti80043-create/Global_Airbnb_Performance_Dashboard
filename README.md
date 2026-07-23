@@ -26,10 +26,12 @@ An interactive Power BI dashboard analyzing Airbnb's global performance across *
 - **DAX** for calculated measures (e.g., DISTINCTCOUNT-based cumulative %)
 
 ## 📷 Preview
-Screenshots of all three tabs are included in this repository.
+### 1. Overview
+<img width="576" height="434" alt="Overview page" src="https://github.com/user-attachments/assets/38d06295-e487-43b9-87f4-8871c2886b60" />
+
 
 ## 📂 Repository Contents
-- <a href="https://github.com/aakriti80043-create/Global_Airbnb_Performance_Dashboard/blob/main/Airbnb%20Dashboard.pbit"> – Power BI report file
+- <a href="https://github.com/aakriti80043-create/Global_Airbnb_Performance_Dashboard/blob/main/Airbnb%20Dashboard.pbit">  Power BI report file
 - Dashboard screenshots (Overview, Ratings, Reviews)
 
 ## 🔗 Connect
