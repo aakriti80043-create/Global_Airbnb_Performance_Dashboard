@@ -30,10 +30,21 @@ An interactive Power BI dashboard analyzing Airbnb's global performance across *
 ### 1. Overview
 <img width="576" height="434" alt="Overview page" src="https://github.com/user-attachments/assets/38d06295-e487-43b9-87f4-8871c2886b60" />
 
+---
 
+### 2. Ratings
+<img width="579" height="435" alt="Rating page" src="https://github.com/user-attachments/assets/e127962f-9b78-436b-83d7-ee793271acd8" />
+
+---
+
+### 3. Reviews
+<img width="579" height="434" alt="Review page" src="https://github.com/user-attachments/assets/f74473ee-7d93-447b-80a2-037f9c0903a7" />
+
+---
 ## 📂 Repository Contents
 - <a href="https://github.com/aakriti80043-create/Global_Airbnb_Performance_Dashboard/blob/main/Airbnb%20Dashboard.pbit">  Power BI report file
 - Dashboard screenshots (Overview, Ratings, Reviews)
+- All DAX Formula
 
 ## 🔗 Connect
 Feedback and suggestions are welcome!
