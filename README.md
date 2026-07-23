@@ -7,7 +7,7 @@ An interactive Power BI dashboard analyzing Airbnb's global performance across *
 ### 1. Overview
 - Key KPIs: Total Listings, Cities, Hosts, Property Types, Reviews
 - New Listings trend (2008–2021) by room type, mapped across product lifecycle stages (Introduction → Growth → Maturity → Decline → Reinvention → COVID-19)
-- ####Insight: Peak listings in 2015; growth stalled in 2016–17 due to regulations, then dropped sharply from 2019 due to COVID-19
+- Insight: Peak listings in 2015; growth stalled in 2016–17 due to regulations, then dropped sharply from 2019 due to COVID-19
 
 ### 2. Ratings
 - Market Share by City (listings & reviews) with Superhost split
